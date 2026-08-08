@@ -1,0 +1,14 @@
+/.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.cache/
+chroma_db/
+*.sqlite3
+.env
+*.pyc
+/.vscode/
+dist/
+build/
+.DS_Store
+Thumbs.db
